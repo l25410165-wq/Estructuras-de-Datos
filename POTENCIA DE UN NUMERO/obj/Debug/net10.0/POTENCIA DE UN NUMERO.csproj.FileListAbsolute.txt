@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\bin\Debug\net10.0\POTENCIA DE UN NUMERO.exe
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\bin\Debug\net10.0\POTENCIA DE UN NUMERO.deps.json
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\bin\Debug\net10.0\POTENCIA DE UN NUMERO.runtimeconfig.json
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\bin\Debug\net10.0\POTENCIA DE UN NUMERO.dll
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\bin\Debug\net10.0\POTENCIA DE UN NUMERO.pdb
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.dll
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\refint\POTENCIA DE UN NUMERO.dll
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.pdb
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA DE UN NUMERO.genruntimeconfig.cache
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\ref\POTENCIA DE UN NUMERO.dll
+C:\Users\DELL\Desktop\POTENCIA DE UN NUMERO\obj\Debug\net10.0\POTENCIA.A638991C.Up2Date
