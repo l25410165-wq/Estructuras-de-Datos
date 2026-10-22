@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Calcular una potencia entera no negativa utilizando recusrividad
+using System;
 
 class Program
 {

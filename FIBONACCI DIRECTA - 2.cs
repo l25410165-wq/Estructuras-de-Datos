@@ -1,4 +1,4 @@
-﻿//CALCULAR EL FACTORIAL DE UN NUMERO NO NEGATIVO USANDO RECUSRIVIDAD
+﻿//programa que determine el valor de una posicion de la serie Fibonacci
 
 using System;
 

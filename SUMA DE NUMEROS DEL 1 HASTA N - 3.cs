@@ -1,4 +1,4 @@
-﻿//Agregar al repositorio de github
+﻿//Calcular la suma de todos los numeros de 1 hasta el n
 
 using System;
 

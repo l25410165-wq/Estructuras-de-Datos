@@ -1,3 +1,4 @@
+//Convertir un numero entero no negativoa su representacion binaria usando dos metodos que se llaman mutuamente
 using System;
 using System.Dynamic;
 
